@@ -1,9 +1,10 @@
 import React from 'react'
+import Header from './Header'
 
 export default function About() {
     return (
         <div>
-            <header>Router app</header>
+            <Header />
             <main>
                 <h1>About</h1>
             </main>
